@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App A3</string>
+    <string name="student_info">BÙI QUANG LONG • MSSV: 241A010085</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="login_with_school">Đăng nhập bằng tài khoản trường</string>
+    <string name="hint_student_id">MSSV</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="remember_me">Ghi nhớ</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="or">hoặc</string>
+    <string name="profile_title">THẺ HỒ SƠ</string>
+    <string name="profile_name">Sinh viên CNTT</string>
+    <string name="profile_major">Lập trình trên các thiết bị di động</string>
+    <string name="stat_projects">Bài tập</string>
+    <string name="stat_projects_value">03</string>
+    <string name="stat_week">Tuần</string>
+    <string name="stat_week_value">03</string>
+    <string name="cover_title">INT4211</string>
+    <string name="cover_subtitle">Lab A3 • XML Layout</string>
+</resources>
